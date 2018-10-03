@@ -10,4 +10,5 @@ end
 
 # call your method here!
 
-
+["t", "l", "x"]
+hello_t(["t", "l", "x"])
